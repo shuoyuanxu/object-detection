@@ -1,3 +1,3 @@
 # object-detection
 
-CPU Only Compile 
+Caffe with SSD CPU Only Compile 
