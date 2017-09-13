@@ -13,3 +13,6 @@ https://www.dropbox.com/s/tjvh43e0vrbki05/TownCentreXVID.mp4?dl=0
 
 
 ftp://ftp.cs.rdg.ac.uk/pub/PETS2009/Crowd_PETS09_dataset/a_data/S2_L2/
+
+
+Server terminated abruptly (error code: 14, error message: '', log file: '/home/jinghua/.cache/bazel/_bazel_root/fae3fa6420780455bb10cce6b449c4e0/server/jvm.out')
