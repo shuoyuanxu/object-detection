@@ -38,3 +38,14 @@ enviroment installation
 10. ctrl+alt+f7
 11. nvidia-smi
 12 sudo bash Anaconda.sh(yes to prepend)
+13. sudo chown -R shuoyuan /home/shuoyuan/anaconda3 
+    sudo chmod -R +x /home/shuoyuan/anaconda3
+14. 
+    anaconda search -t conda tensorflow
+    anaconda show ???????/tensorflow
+    conda install --channel https:?????????????
+
+
+
+
+
