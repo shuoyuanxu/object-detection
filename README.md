@@ -37,3 +37,4 @@ enviroment installation
 9. sudo service lightdm start
 10. ctrl+alt+f7
 11. nvidia-smi
+12 sudo bash Anaconda.sh
