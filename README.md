@@ -30,7 +30,8 @@ enviroment installation
             sess = tf.Session()
             print(sess.run(hello))
 15. 
-    
+    conda install --channel https://conda.anaconda.org/anaconda opencv
+
 
 
 
