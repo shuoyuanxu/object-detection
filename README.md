@@ -33,6 +33,6 @@ enviroment installation
     conda install --channel https://conda.anaconda.org/anaconda opencv
 
 
-
+http://blog.csdn.net/u011596455/article/details/53240221
 
 
