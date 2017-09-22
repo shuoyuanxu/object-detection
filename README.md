@@ -1,6 +1,6 @@
 enviroment installation
 
-1. 
+1. $vt_handoff acpi_osi=linux nomodeset
 2. sudo apt-get update
 3. sudo gedit /etc/modprobe.d/blacklist.conf
     blacklist nouveau
