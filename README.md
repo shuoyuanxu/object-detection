@@ -31,6 +31,9 @@ enviroment installation
             print(sess.run(hello))
 15. 
     conda install --channel https://conda.anaconda.org/anaconda opencv
+    
+    
+https://cranfield.wless.cranfield.ac.uk/guest/guest-template_2.php?portal_ip=138.250.54.3&client_id=3c:a0:67:4a:9a:72&wbaredirect=http://www.baidu.com/&ssid=Cranfield%20Web&bssid=3c:94:d5:78:01:42&_browser=1
 
 
 http://blog.csdn.net/u011596455/article/details/53240221
